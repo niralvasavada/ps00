@@ -1,0 +1,17 @@
+Date    Who       Start Stop  Interruptions    Question                          TimeOnTask    Comments
+09/06	NIRAL	  19:00 19:20		 	Sign up for ccis account            20
+09/06   NIRAL	  19:20 19:45			Racket installation                 25
+09/06	NIRAL	  19:45 20:30			Sign up and installing Github       45
+09/07   NIRAL     14:00 14:05                   1                                   5         Analysis and solution of Q1
+09/07   NIRAL     14:05 14:10	                2                                   5         Analysis and solution of Q2
+09/07   NIRAL     14:10 14:15                   3                                   5         Analysis and solution of Q3
+09/07   NIRAL     14:15 14:20                   4                                   5         Analysis and solution of Q4
+09/07   NIRAL     14:20 14:30                   5                                   10        Analysis and solution of Q5
+09/07   NIRAL     14:30 14:45                   6                                   15        Analysis and solution of Q6
+09/07   NIRAL     14:45 14:55                   7                                   10        Analysis and solution of Q7
+09/07   NIRAL     14:55 15:10                   8                                   15        Analysis and solution of Q8
+09/07   NIRAL     15:10 15:30                   9                                   20        Couldnt exactly find out what predicate is.
+09/07   NIRAL     15:30 16:15                   10                                  45        Thinking about question 10 but couldn't fix it
+     
+     
+    
